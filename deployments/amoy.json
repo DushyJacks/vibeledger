@@ -1,0 +1,11 @@
+{
+  "network": "Polygon Amoy Testnet",
+  "chainId": 80002,
+  "deployer": "0xe12E3C5e1B84CFBDD1834CDbe8134C8652281dD6",
+  "timestamp": "2026-01-03T17:33:45.249Z",
+  "contracts": {
+    "TrackRegistry": "0x577d1924AbE1B5d76433FC3ea948f0aDFd6e1CbC",
+    "LicenseManager": "0xCBE787553FF93078ABA874BE2f993F04B0D24070",
+    "RoyaltyDistributor": "0x4aA8f5e73bfA67cD4d39a2a621f007Ac5298Fd73"
+  }
+}
